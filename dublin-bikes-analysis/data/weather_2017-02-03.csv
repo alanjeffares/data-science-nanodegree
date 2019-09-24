@@ -1,0 +1,721 @@
+Time,Weather,Temperature,Feels_Like,Wind_Speed
+00:00:08,Light Rain / Windy,8,5,35
+00:02:09,Light Rain / Windy,8,5,35
+00:04:08,Light Rain / Windy,8,5,35
+00:06:09,Light Rain / Windy,8,5,35
+00:08:08,Light Rain / Windy,8,5,35
+00:10:08,Light Rain / Windy,8,5,35
+00:12:09,Mostly Cloudy / Windy,7,3,38
+00:14:09,Mostly Cloudy / Windy,7,3,38
+00:16:08,Mostly Cloudy / Windy,7,3,38
+00:18:09,Mostly Cloudy / Windy,7,3,38
+00:20:09,Mostly Cloudy / Windy,7,3,38
+00:22:09,Mostly Cloudy / Windy,7,3,38
+00:24:09,Mostly Cloudy / Windy,7,3,38
+00:26:08,Mostly Cloudy / Windy,7,3,38
+00:28:09,Mostly Cloudy / Windy,7,3,38
+00:30:09,Mostly Cloudy / Windy,7,3,38
+00:32:08,Mostly Cloudy / Windy,7,3,38
+00:34:09,Mostly Cloudy / Windy,7,3,38
+00:36:09,Mostly Cloudy / Windy,7,3,38
+00:38:09,Mostly Cloudy / Windy,7,3,38
+00:40:09,Mostly Cloudy / Windy,7,3,38
+00:42:08,Mostly Cloudy / Windy,7,3,38
+00:44:09,Mostly Cloudy / Windy,7,3,38
+00:46:09,Mostly Cloudy / Windy,7,3,38
+00:48:08,Mostly Cloudy / Windy,7,3,38
+00:50:09,Mostly Cloudy / Windy,7,3,38
+00:52:09,Mostly Cloudy / Windy,7,3,38
+00:54:09,Mostly Cloudy / Windy,7,3,38
+00:56:09,Mostly Cloudy / Windy,7,3,38
+00:58:09,Mostly Cloudy / Windy,7,3,38
+01:00:17,Mostly Cloudy / Windy,7,3,38
+01:02:14,Mostly Cloudy / Windy,7,3,38
+01:04:09,Mostly Cloudy / Windy,7,3,38
+01:06:09,Mostly Cloudy / Windy,7,3,38
+01:08:09,Mostly Cloudy / Windy,7,3,38
+01:10:08,Mostly Cloudy / Windy,7,3,38
+01:12:09,Mostly Cloudy / Windy,7,3,35
+01:14:09,Mostly Cloudy / Windy,7,3,35
+01:16:08,Mostly Cloudy / Windy,7,3,35
+01:18:09,Mostly Cloudy / Windy,7,3,35
+01:20:09,Mostly Cloudy / Windy,7,3,35
+01:22:08,Mostly Cloudy / Windy,7,3,35
+01:24:08,Mostly Cloudy / Windy,7,3,35
+01:26:09,Mostly Cloudy / Windy,7,3,35
+01:28:08,Mostly Cloudy / Windy,7,3,35
+01:30:09,Mostly Cloudy / Windy,7,3,35
+01:32:08,Mostly Cloudy / Windy,7,3,35
+01:34:09,Mostly Cloudy / Windy,7,3,35
+01:36:09,Mostly Cloudy / Windy,7,3,35
+01:38:09,Mostly Cloudy / Windy,7,3,35
+01:40:08,Mostly Cloudy / Windy,7,3,35
+01:42:09,Mostly Cloudy / Windy,7,3,35
+01:44:09,Mostly Cloudy / Windy,7,3,35
+01:46:09,Mostly Cloudy / Windy,7,3,35
+01:48:08,Mostly Cloudy / Windy,7,3,35
+01:50:09,Mostly Cloudy / Windy,7,3,35
+01:52:08,Mostly Cloudy / Windy,7,3,35
+01:54:09,Mostly Cloudy / Windy,7,3,35
+01:56:09,Mostly Cloudy / Windy,7,3,35
+01:58:08,Mostly Cloudy / Windy,7,3,35
+02:00:09,Mostly Cloudy / Windy,7,3,35
+02:02:08,Mostly Cloudy / Windy,7,3,35
+02:04:09,Mostly Cloudy / Windy,7,3,35
+02:06:09,Mostly Cloudy / Windy,7,3,35
+02:08:09,Mostly Cloudy / Windy,7,3,35
+02:10:08,Mostly Cloudy / Windy,7,3,35
+02:12:08,Mostly Cloudy / Windy,7,3,35
+02:14:09,Mostly Cloudy / Windy,7,3,35
+02:16:08,Mostly Cloudy / Windy,7,3,35
+02:18:09,Mostly Cloudy / Windy,7,2,38
+02:20:09,Mostly Cloudy / Windy,7,2,38
+02:22:08,Mostly Cloudy / Windy,7,2,38
+02:24:09,Mostly Cloudy / Windy,7,2,38
+02:26:09,Mostly Cloudy / Windy,7,2,38
+02:28:08,Mostly Cloudy / Windy,7,2,38
+02:30:09,Mostly Cloudy / Windy,7,2,38
+02:32:08,Mostly Cloudy / Windy,7,2,38
+02:34:09,Mostly Cloudy / Windy,7,2,38
+02:36:09,Mostly Cloudy / Windy,7,2,38
+02:38:08,Mostly Cloudy / Windy,7,2,38
+02:40:09,Mostly Cloudy / Windy,7,2,38
+02:42:09,Mostly Cloudy / Windy,7,2,38
+02:44:09,Mostly Cloudy / Windy,7,2,38
+02:46:08,Mostly Cloudy / Windy,7,2,38
+02:48:09,Mostly Cloudy / Windy,7,2,38
+02:50:09,Mostly Cloudy / Windy,7,2,38
+02:52:08,Mostly Cloudy / Windy,7,2,38
+02:54:08,Mostly Cloudy / Windy,7,2,38
+02:56:09,Mostly Cloudy / Windy,7,2,38
+02:58:09,Mostly Cloudy / Windy,7,2,38
+03:00:08,Mostly Cloudy / Windy,7,2,38
+03:02:09,Mostly Cloudy / Windy,7,2,38
+03:04:09,Mostly Cloudy / Windy,7,2,38
+03:06:09,Mostly Cloudy / Windy,7,2,38
+03:08:08,Mostly Cloudy / Windy,7,2,38
+03:10:09,Mostly Cloudy / Windy,7,2,38
+03:12:09,Partly Cloudy / Windy,7,2,33
+03:14:08,Partly Cloudy / Windy,7,2,33
+03:16:08,Partly Cloudy / Windy,7,2,33
+03:18:09,Partly Cloudy / Windy,7,2,33
+03:20:08,Partly Cloudy / Windy,7,2,33
+03:22:08,Partly Cloudy / Windy,7,2,33
+03:24:09,Partly Cloudy / Windy,7,2,33
+03:26:08,Partly Cloudy / Windy,7,2,33
+03:28:09,Partly Cloudy / Windy,7,2,33
+03:30:09,Partly Cloudy / Windy,7,2,33
+03:32:09,Partly Cloudy / Windy,7,2,33
+03:34:09,Partly Cloudy / Windy,7,2,33
+03:36:09,Partly Cloudy / Windy,7,2,33
+03:38:09,Partly Cloudy / Windy,7,2,33
+03:40:09,Partly Cloudy / Windy,7,2,33
+03:42:08,Partly Cloudy / Windy,7,2,33
+03:44:09,Partly Cloudy / Windy,7,2,33
+03:46:09,Partly Cloudy / Windy,7,2,33
+03:48:09,Partly Cloudy / Windy,7,2,33
+03:50:09,Partly Cloudy / Windy,7,2,33
+03:52:08,Partly Cloudy / Windy,7,2,33
+03:54:09,Partly Cloudy / Windy,7,2,33
+03:56:09,Partly Cloudy / Windy,7,2,33
+03:58:08,Partly Cloudy / Windy,7,2,33
+04:00:09,Partly Cloudy / Windy,7,2,33
+04:02:08,Partly Cloudy / Windy,7,2,33
+04:04:08,Partly Cloudy / Windy,7,2,33
+04:06:09,Partly Cloudy / Windy,7,2,33
+04:08:09,Partly Cloudy / Windy,7,2,33
+04:10:08,Partly Cloudy / Windy,7,2,33
+04:12:09,Light Rain / Windy,6,1,33
+04:14:08,Light Rain / Windy,6,1,33
+04:16:08,Light Rain / Windy,6,1,33
+04:18:09,Light Rain / Windy,6,1,33
+04:20:09,Light Rain / Windy,6,1,33
+04:22:09,Light Rain / Windy,6,1,33
+04:24:08,Light Rain / Windy,6,1,33
+04:26:09,Light Rain / Windy,6,1,33
+04:28:08,Light Rain / Windy,6,1,33
+04:30:09,Light Rain / Windy,6,1,33
+04:32:08,Light Rain / Windy,6,1,33
+04:34:08,Light Rain / Windy,6,1,33
+04:36:08,Light Rain / Windy,6,1,33
+04:38:09,Light Rain / Windy,6,1,33
+04:40:09,Light Rain / Windy,6,1,33
+04:42:08,Light Rain / Windy,6,1,33
+04:44:09,Light Rain / Windy,6,1,33
+04:46:09,Light Rain / Windy,6,1,33
+04:48:08,Light Rain / Windy,6,1,33
+04:50:09,Light Rain / Windy,6,1,33
+04:52:09,Light Rain / Windy,6,1,33
+04:54:08,Light Rain / Windy,6,1,33
+04:56:09,Light Rain / Windy,6,1,33
+04:58:09,Light Rain / Windy,6,1,33
+05:00:08,Light Rain / Windy,6,1,33
+05:02:09,Light Rain / Windy,6,1,33
+05:04:09,Light Rain / Windy,6,1,33
+05:06:09,Light Rain / Windy,6,1,33
+05:08:09,Light Rain / Windy,6,1,33
+05:10:09,Light Rain / Windy,6,1,33
+05:12:09,Light Rain / Windy,6,1,33
+05:14:09,Light Rain / Windy,6,1,33
+05:16:09,Light Rain / Windy,6,1,33
+05:18:09,Fair / Windy,5,0,33
+05:20:09,Fair / Windy,5,0,33
+05:22:09,Fair / Windy,5,0,33
+05:24:09,Fair / Windy,5,0,33
+05:26:08,Fair / Windy,5,0,33
+05:28:09,Fair / Windy,5,0,33
+05:30:09,Fair / Windy,5,0,33
+05:32:08,Fair / Windy,5,0,33
+05:34:08,Fair / Windy,5,0,33
+05:36:09,Fair / Windy,5,0,33
+05:38:09,Fair / Windy,5,0,33
+05:40:08,Fair / Windy,5,0,33
+05:42:09,Fair / Windy,5,0,33
+05:44:09,Fair / Windy,5,0,33
+05:46:08,Fair / Windy,5,0,33
+05:48:09,Fair / Windy,5,0,33
+05:50:09,Fair / Windy,5,0,33
+05:52:08,Fair / Windy,5,0,33
+05:54:08,Fair / Windy,5,0,33
+05:56:09,Fair / Windy,5,0,33
+05:58:09,Fair / Windy,5,0,33
+06:00:08,Fair / Windy,5,0,33
+06:02:09,Fair / Windy,5,0,33
+06:04:09,Fair / Windy,5,0,33
+06:06:09,Fair / Windy,5,0,33
+06:08:09,Fair / Windy,5,0,33
+06:10:08,Fair / Windy,5,0,33
+06:12:09,Fair / Windy,5,0,33
+06:14:08,Fair / Windy,5,0,33
+06:16:09,Fair / Windy,5,0,33
+06:18:08,Fair,5,0,32
+06:20:09,Fair,5,0,32
+06:22:09,Fair,5,0,32
+06:24:09,Fair,5,0,32
+06:26:09,Fair,5,0,32
+06:28:09,Fair,5,0,32
+06:30:08,Fair,5,0,32
+06:32:09,Fair,5,0,32
+06:34:08,Fair,5,0,32
+06:36:09,Fair,5,0,32
+06:38:09,Fair,5,0,32
+06:40:09,Fair,5,0,32
+06:42:09,Fair,5,0,32
+06:44:08,Fair,5,0,32
+06:46:08,Fair,5,0,32
+06:48:09,Fair,5,0,32
+06:50:08,Fair,5,0,32
+06:52:09,Fair,5,0,32
+06:54:08,Fair,5,0,32
+06:56:08,Fair,5,0,32
+06:58:09,Fair,5,0,32
+07:00:08,Fair,5,0,32
+07:02:09,Fair,5,0,32
+07:04:08,Fair,5,0,32
+07:06:08,Fair,5,0,32
+07:08:09,Fair,5,0,32
+07:10:09,Fair,5,0,32
+07:12:08,Fair,5,0,27
+07:14:09,Fair,5,0,27
+07:16:08,Fair,5,0,27
+07:18:09,Fair,5,0,27
+07:20:08,Fair,5,0,27
+07:22:09,Fair,5,0,27
+07:24:09,Fair,5,0,27
+07:26:08,Fair,5,0,27
+07:28:08,Fair,5,0,27
+07:30:09,Fair,5,0,27
+07:32:08,Fair,5,0,27
+07:34:09,Fair,5,0,27
+07:36:09,Fair,5,0,27
+07:38:09,Fair,5,0,27
+07:40:09,Fair,5,0,27
+07:42:09,Fair,5,0,27
+07:44:08,Fair,5,0,27
+07:46:09,Fair,5,0,27
+07:48:09,Fair,5,0,27
+07:50:08,Fair,5,0,27
+07:52:08,Fair,5,0,27
+07:54:09,Fair,5,0,27
+07:56:08,Fair,5,0,27
+07:58:09,Fair,5,0,27
+08:00:08,Fair,5,0,27
+08:02:09,Fair,5,0,27
+08:04:09,Fair,5,0,27
+08:06:08,Fair,5,0,27
+08:08:09,Fair,5,0,27
+08:10:09,Fair,5,0,27
+08:12:08,Partly Cloudy,5,0,22
+08:14:09,Partly Cloudy,5,0,22
+08:16:09,Partly Cloudy,5,0,22
+08:18:09,Partly Cloudy,5,0,22
+08:20:08,Partly Cloudy,5,0,22
+08:22:08,Partly Cloudy,5,0,22
+08:24:09,Partly Cloudy,5,0,22
+08:26:09,Partly Cloudy,5,0,22
+08:28:08,Partly Cloudy,5,0,22
+08:30:08,Partly Cloudy,5,0,22
+08:32:09,Partly Cloudy,5,0,22
+08:34:09,Partly Cloudy,5,0,22
+08:36:09,Partly Cloudy,5,0,22
+08:38:08,Partly Cloudy,5,0,22
+08:40:09,Partly Cloudy,5,0,22
+08:42:09,Partly Cloudy,5,1,20
+08:44:08,Partly Cloudy,5,1,20
+08:46:08,Partly Cloudy,5,1,20
+08:48:09,Partly Cloudy,5,1,20
+08:50:08,Partly Cloudy,5,1,20
+08:52:09,Partly Cloudy,5,1,20
+08:54:08,Partly Cloudy,5,1,20
+08:56:09,Partly Cloudy,5,1,20
+08:58:09,Partly Cloudy,5,1,20
+09:00:08,Partly Cloudy,5,1,20
+09:02:08,Partly Cloudy,5,1,20
+09:04:08,Partly Cloudy,5,1,20
+09:06:09,Partly Cloudy,5,1,20
+09:08:08,Partly Cloudy,5,1,20
+09:10:08,Partly Cloudy,5,1,20
+09:12:09,Mostly Cloudy,5,2,11
+09:14:09,Mostly Cloudy,5,2,11
+09:16:08,Mostly Cloudy,5,2,11
+09:18:09,Mostly Cloudy,5,2,11
+09:20:08,Mostly Cloudy,5,2,11
+09:22:09,Mostly Cloudy,5,2,11
+09:24:08,Mostly Cloudy,5,2,11
+09:26:09,Mostly Cloudy,5,2,11
+09:28:08,Mostly Cloudy,5,2,11
+09:30:08,Mostly Cloudy,5,2,11
+09:32:09,Mostly Cloudy,5,2,11
+09:34:08,Mostly Cloudy,5,2,11
+09:36:08,Mostly Cloudy,5,2,11
+09:38:09,Mostly Cloudy,5,2,11
+09:40:09,Mostly Cloudy,5,2,11
+09:42:09,Mostly Cloudy,5,2,11
+09:44:08,Mostly Cloudy,5,2,11
+09:46:09,Mostly Cloudy,5,2,11
+09:48:09,Mostly Cloudy,5,2,11
+09:50:08,Mostly Cloudy,5,2,11
+09:52:09,Mostly Cloudy,5,2,11
+09:54:08,Mostly Cloudy,5,2,11
+09:56:09,Mostly Cloudy,5,2,11
+09:58:09,Mostly Cloudy,5,2,11
+10:00:09,Mostly Cloudy,5,2,11
+10:02:08,Mostly Cloudy,5,2,11
+10:04:09,Mostly Cloudy,5,2,11
+10:06:09,Mostly Cloudy,5,2,11
+10:08:09,Mostly Cloudy,5,2,11
+10:10:09,Mostly Cloudy,5,2,11
+10:12:08,Mostly Cloudy,6,3,9
+10:14:09,Mostly Cloudy,6,3,9
+10:16:09,Mostly Cloudy,6,3,9
+10:18:09,Mostly Cloudy,6,3,9
+10:20:09,Mostly Cloudy,6,3,9
+10:22:09,Mostly Cloudy,6,3,9
+10:24:09,Mostly Cloudy,6,3,9
+10:26:08,Mostly Cloudy,6,3,9
+10:28:09,Mostly Cloudy,6,3,9
+10:30:09,Mostly Cloudy,6,3,9
+10:32:09,Mostly Cloudy,6,3,9
+10:34:09,Mostly Cloudy,6,3,9
+10:36:09,Mostly Cloudy,6,3,9
+10:38:09,Mostly Cloudy,6,3,9
+10:40:08,Mostly Cloudy,6,3,9
+10:42:08,Mostly Cloudy,6,3,9
+10:44:09,Mostly Cloudy,6,3,9
+10:46:09,Mostly Cloudy,6,3,9
+10:48:08,Mostly Cloudy,6,3,9
+10:50:09,Mostly Cloudy,6,3,9
+10:52:08,Mostly Cloudy,6,3,9
+10:54:09,Mostly Cloudy,6,3,9
+10:56:08,Mostly Cloudy,6,3,9
+10:58:08,Mostly Cloudy,6,3,9
+11:00:09,Mostly Cloudy,6,3,9
+11:02:09,Mostly Cloudy,6,3,9
+11:04:09,Mostly Cloudy,6,3,9
+11:06:09,Mostly Cloudy,6,3,9
+11:08:09,Mostly Cloudy,6,3,9
+11:10:09,Mostly Cloudy,6,3,9
+11:12:09,Mostly Cloudy,6,3,9
+11:14:09,Mostly Cloudy,6,3,9
+11:16:09,Mostly Cloudy,6,3,9
+11:18:08,Mostly Cloudy,6,4,8
+11:20:09,Mostly Cloudy,6,4,8
+11:22:09,Mostly Cloudy,6,4,8
+11:24:09,Mostly Cloudy,6,4,8
+11:26:09,Mostly Cloudy,6,4,8
+11:28:09,Mostly Cloudy,6,4,8
+11:30:09,Mostly Cloudy,6,4,8
+11:32:09,Mostly Cloudy,6,4,8
+11:34:09,Mostly Cloudy,6,4,8
+11:36:08,Mostly Cloudy,6,4,8
+11:38:09,Mostly Cloudy,6,4,8
+11:40:09,Mostly Cloudy,6,4,8
+11:42:08,Mostly Cloudy,7,7,4
+11:44:09,Mostly Cloudy,7,7,4
+11:46:08,Mostly Cloudy,7,7,4
+11:48:08,Mostly Cloudy,7,7,4
+11:50:09,Mostly Cloudy,7,7,4
+11:52:08,Mostly Cloudy,7,7,4
+11:54:09,Mostly Cloudy,7,7,4
+11:56:08,Mostly Cloudy,7,7,4
+11:58:09,Mostly Cloudy,7,7,4
+12:00:09,Mostly Cloudy,7,7,4
+12:02:08,Mostly Cloudy,7,7,4
+12:04:09,Mostly Cloudy,7,7,4
+12:06:08,Mostly Cloudy,7,7,4
+12:08:09,Mostly Cloudy,7,7,4
+12:10:08,Mostly Cloudy,7,7,4
+12:12:09,Cloudy,7,7,1
+12:14:08,Cloudy,7,7,1
+12:16:09,Cloudy,7,7,1
+12:18:08,Cloudy,7,7,1
+12:20:08,Cloudy,7,7,1
+12:22:09,Cloudy,7,7,1
+12:24:08,Cloudy,7,7,1
+12:26:09,Cloudy,7,7,1
+12:28:09,Cloudy,7,7,1
+12:30:08,Cloudy,7,7,1
+12:32:09,Cloudy,7,7,1
+12:34:09,Cloudy,7,7,1
+12:36:08,Cloudy,7,7,1
+12:38:09,Cloudy,7,7,1
+12:40:09,Cloudy,7,7,1
+12:42:08,Cloudy,7,7,1
+12:44:09,Cloudy,7,7,1
+12:46:09,Cloudy,7,7,1
+12:48:08,Light Rain,7,5,20
+12:50:09,Light Rain,7,5,20
+12:52:09,Light Rain,7,5,20
+12:54:08,Light Rain,7,5,20
+12:56:09,Light Rain,7,5,20
+12:58:08,Light Rain,7,5,20
+13:00:08,Light Rain,7,5,20
+13:02:09,Light Rain,7,5,20
+13:04:08,Light Rain,7,5,20
+13:06:09,Light Rain,7,5,20
+13:08:09,Light Rain,7,5,20
+13:10:08,Light Rain,7,5,20
+13:12:09,Light Rain,6,3,11
+13:14:09,Light Rain,6,3,11
+13:16:08,Light Rain,6,3,11
+13:18:09,Light Rain,6,3,11
+13:20:09,Light Rain,6,3,11
+13:22:08,Light Rain,6,3,11
+13:24:09,Light Rain,6,3,11
+13:26:09,Light Rain,6,3,11
+13:28:08,Light Rain,6,3,11
+13:30:09,Light Rain,6,3,11
+13:32:08,Light Rain,6,3,11
+13:34:08,Light Rain,6,3,11
+13:36:09,Light Rain,6,3,11
+13:38:09,Light Rain,6,3,11
+13:40:08,Light Rain,6,3,11
+13:42:09,Light Rain,5,5,4
+13:44:09,Light Rain,5,5,4
+13:46:08,Light Rain,5,5,4
+13:48:09,Light Rain,5,5,4
+13:50:09,Light Rain,5,5,4
+13:52:09,Light Rain,5,5,4
+13:54:09,Light Rain,5,5,4
+13:56:09,Light Rain,5,5,4
+13:58:08,Light Rain,5,5,4
+14:00:09,Light Rain,5,5,4
+14:02:09,Light Rain,5,5,4
+14:04:08,Light Rain,5,5,4
+14:06:08,Light Rain,5,5,4
+14:08:09,Light Rain,5,5,4
+14:10:09,Light Rain,5,5,4
+14:12:08,Light Rain,5,5,4
+14:14:09,Light Rain,5,5,4
+14:16:09,Light Rain,5,5,4
+14:18:08,Light Rain,5,5,4
+14:20:08,Light Rain,5,5,4
+14:22:09,Light Rain,5,5,4
+14:24:09,Light Rain,5,5,4
+14:26:09,Light Rain,5,5,4
+14:28:09,Light Rain,5,5,4
+14:30:09,Light Rain,5,5,4
+14:32:08,Light Rain,5,5,4
+14:34:08,Light Rain,5,5,4
+14:36:09,Light Rain,5,5,4
+14:38:09,Light Rain,5,5,4
+14:40:08,Light Rain,5,5,4
+14:42:09,Light Rain,5,5,4
+14:44:08,Light Rain,5,5,4
+14:46:09,Light Rain,5,5,4
+14:48:09,Light Rain,5,5,4
+14:50:09,Light Rain,5,5,4
+14:52:09,Light Rain,5,5,4
+14:54:08,Light Rain,5,5,4
+14:56:09,Light Rain,5,5,4
+14:58:08,Light Rain,5,5,4
+15:00:08,Light Rain,5,5,4
+15:02:09,Light Rain,5,5,4
+15:04:08,Light Rain,5,5,4
+15:06:09,Light Rain,5,5,4
+15:08:09,Light Rain,5,5,4
+15:10:08,Light Rain,5,5,4
+15:12:09,Light Rain,5,5,4
+15:14:09,Light Rain,5,5,4
+15:16:08,Light Rain,5,5,4
+15:18:09,Light Rain,5,3,8
+15:20:09,Light Rain,5,3,8
+15:22:08,Light Rain,5,3,8
+15:24:08,Light Rain,5,3,8
+15:26:09,Light Rain,5,3,8
+15:28:09,Light Rain,5,3,8
+15:30:09,Light Rain,5,3,8
+15:32:09,Light Rain,5,3,8
+15:34:09,Light Rain,5,3,8
+15:36:08,Light Rain,5,3,8
+15:38:09,Light Rain,5,3,8
+15:40:09,Light Rain,5,3,8
+15:42:09,Light Rain,5,2,9
+15:44:09,Light Rain,5,2,9
+15:46:08,Light Rain,5,2,9
+15:48:09,Light Rain,5,2,9
+15:50:08,Light Rain,5,2,9
+15:52:09,Light Rain,5,2,9
+15:54:09,Light Rain,5,2,9
+15:56:08,Light Rain,5,2,9
+15:58:09,Light Rain,5,2,9
+16:00:09,Light Rain,5,2,9
+16:02:09,Light Rain,5,2,9
+16:04:09,Light Rain,5,2,9
+16:06:09,Light Rain,5,2,9
+16:08:09,Light Rain,5,2,9
+16:10:09,Light Rain,5,2,9
+16:12:09,Light Rain,3,2,8
+16:14:09,Light Rain,3,2,8
+16:16:09,Light Rain,3,2,8
+16:18:08,Light Rain,3,2,8
+16:20:08,Light Rain,3,2,8
+16:22:09,Light Rain,3,2,8
+16:24:08,Light Rain,3,2,8
+16:26:09,Light Rain,3,2,8
+16:28:09,Light Rain,3,2,8
+16:30:08,Light Rain,3,2,8
+16:32:09,Light Rain,3,2,8
+16:34:08,Light Rain,3,2,8
+16:36:08,Light Rain,3,2,8
+16:38:09,Light Rain,3,2,8
+16:40:09,Light Rain,3,2,8
+16:42:09,Light Rain,3,3,4
+16:44:09,Light Rain,3,3,4
+16:46:08,Light Rain,3,3,4
+16:48:09,Light Rain,3,3,4
+16:50:09,Light Rain,3,3,4
+16:52:08,Light Rain,3,3,4
+16:54:08,Light Rain,3,3,4
+16:56:09,Light Rain,3,3,4
+16:58:08,Light Rain,3,3,4
+17:00:09,Light Rain,3,3,4
+17:02:09,Light Rain,3,3,4
+17:04:09,Light Rain,3,3,4
+17:06:08,Light Rain,3,3,4
+17:08:09,Light Rain,3,3,4
+17:10:08,Light Rain,3,3,4
+17:12:08,Light Rain,3,3,4
+17:14:09,Light Rain,3,3,4
+17:16:09,Light Rain,3,3,4
+17:18:08,Light Rain,3,3,4
+17:20:09,Light Rain,3,3,4
+17:22:08,Light Rain,3,3,4
+17:24:09,Light Rain,3,3,4
+17:26:09,Light Rain,3,3,4
+17:28:08,Light Rain,3,3,4
+17:30:09,Light Rain,3,3,4
+17:32:08,Light Rain,3,3,4
+17:34:09,Light Rain,3,3,4
+17:36:09,Light Rain,3,3,4
+17:38:08,Light Rain,3,3,4
+17:40:09,Light Rain,3,3,4
+17:42:09,Light Rain,3,3,4
+17:44:09,Light Rain,3,3,4
+17:46:09,Light Rain,3,3,4
+17:48:08,Light Rain,3,3,4
+17:50:09,Light Rain,3,3,4
+17:52:08,Light Rain,3,3,4
+17:54:09,Light Rain,3,3,4
+17:56:09,Light Rain,3,3,4
+17:58:09,Light Rain,3,3,4
+18:00:08,Light Rain,3,3,4
+18:02:09,Light Rain,3,3,4
+18:04:08,Light Rain,3,3,4
+18:06:09,Light Rain,3,3,4
+18:08:09,Light Rain,3,3,4
+18:10:09,Light Rain,3,3,4
+18:12:09,Light Rain,3,3,4
+18:14:08,Mostly Cloudy,3,3,3
+18:16:09,Mostly Cloudy,3,3,3
+18:18:08,Mostly Cloudy,3,3,3
+18:20:08,Mostly Cloudy,3,3,3
+18:22:09,Mostly Cloudy,3,3,3
+18:24:09,Mostly Cloudy,3,3,3
+18:26:08,Mostly Cloudy,3,3,3
+18:28:09,Mostly Cloudy,3,3,3
+18:30:09,Mostly Cloudy,3,3,3
+18:32:08,Mostly Cloudy,3,3,3
+18:34:09,Mostly Cloudy,3,3,3
+18:36:09,Mostly Cloudy,3,3,3
+18:38:09,Mostly Cloudy,3,3,3
+18:40:09,Mostly Cloudy,3,3,3
+18:42:08,Mostly Cloudy,3,3,3
+18:44:09,Mostly Cloudy,3,3,3
+18:46:08,Mostly Cloudy,3,3,3
+18:48:09,Mostly Cloudy,3,3,3
+18:50:09,Mostly Cloudy,3,3,3
+18:52:08,Mostly Cloudy,3,3,3
+18:54:09,Mostly Cloudy,3,3,3
+18:56:09,Mostly Cloudy,3,3,3
+18:58:08,Mostly Cloudy,3,3,3
+19:00:08,Mostly Cloudy,3,3,3
+19:02:09,Mostly Cloudy,3,3,3
+19:04:08,Mostly Cloudy,3,3,3
+19:06:09,Mostly Cloudy,3,3,3
+19:08:09,Mostly Cloudy,3,3,3
+19:10:08,Mostly Cloudy,3,3,3
+19:12:09,Mostly Cloudy,3,3,3
+19:14:09,Mostly Cloudy,2,0,11
+19:16:08,Mostly Cloudy,2,0,11
+19:18:09,Mostly Cloudy,2,0,11
+19:20:09,Mostly Cloudy,2,0,11
+19:22:09,Mostly Cloudy,2,0,11
+19:24:08,Mostly Cloudy,2,0,11
+19:26:08,Mostly Cloudy,2,0,11
+19:28:09,Mostly Cloudy,2,0,11
+19:30:09,Mostly Cloudy,2,0,11
+19:32:09,Mostly Cloudy,2,0,11
+19:34:09,Mostly Cloudy,2,0,11
+19:36:09,Mostly Cloudy,2,0,11
+19:38:09,Mostly Cloudy,2,0,11
+19:40:08,Mostly Cloudy,2,0,11
+19:42:09,Mostly Cloudy,2,0,11
+19:44:09,Mostly Cloudy,2,0,11
+19:46:08,Mostly Cloudy,2,0,11
+19:48:09,Mostly Cloudy,2,0,11
+19:50:09,Mostly Cloudy,2,0,11
+19:52:08,Mostly Cloudy,2,0,11
+19:54:09,Mostly Cloudy,2,0,11
+19:56:09,Mostly Cloudy,2,0,11
+19:58:09,Mostly Cloudy,2,0,11
+20:00:09,Mostly Cloudy,2,0,11
+20:02:09,Mostly Cloudy,2,0,11
+20:04:08,Mostly Cloudy,2,0,11
+20:06:09,Mostly Cloudy,2,0,11
+20:08:09,Mostly Cloudy,3,0,14
+20:10:08,Mostly Cloudy,3,0,14
+20:12:09,Mostly Cloudy,3,0,14
+20:14:08,Mostly Cloudy,3,0,14
+20:16:09,Mostly Cloudy,3,0,14
+20:18:09,Mostly Cloudy,3,0,14
+20:20:09,Mostly Cloudy,3,0,14
+20:22:08,Mostly Cloudy,3,0,14
+20:24:09,Mostly Cloudy,3,0,14
+20:26:09,Mostly Cloudy,3,0,14
+20:28:08,Mostly Cloudy,3,0,14
+20:30:09,Mostly Cloudy,3,0,14
+20:32:09,Mostly Cloudy,3,0,14
+20:34:09,Mostly Cloudy,3,0,14
+20:36:09,Mostly Cloudy,3,0,14
+20:38:09,Mostly Cloudy,3,0,14
+20:40:08,Mostly Cloudy,3,0,14
+20:42:09,Mostly Cloudy,3,0,14
+20:44:09,Mostly Cloudy,3,0,14
+20:46:08,Mostly Cloudy,3,0,14
+20:48:08,Mostly Cloudy,3,0,14
+20:50:09,Mostly Cloudy,3,0,14
+20:52:09,Mostly Cloudy,3,0,14
+20:54:08,Mostly Cloudy,3,0,14
+20:56:09,Mostly Cloudy,3,0,14
+20:58:09,Mostly Cloudy,3,0,14
+21:00:08,Mostly Cloudy,3,0,14
+21:02:09,Mostly Cloudy,3,0,14
+21:04:09,Mostly Cloudy,3,0,14
+21:06:08,Mostly Cloudy,3,0,14
+21:08:09,Mostly Cloudy,3,0,14
+21:10:09,Mostly Cloudy,3,0,14
+21:12:08,Mostly Cloudy,3,0,14
+21:14:09,Mostly Cloudy,3,0,19
+21:16:09,Mostly Cloudy,3,0,19
+21:18:09,Mostly Cloudy,3,0,19
+21:20:09,Mostly Cloudy,3,0,19
+21:22:08,Mostly Cloudy,3,0,19
+21:24:09,Mostly Cloudy,3,0,19
+21:26:09,Mostly Cloudy,3,0,19
+21:28:08,Mostly Cloudy,3,0,19
+21:30:08,Mostly Cloudy,3,0,19
+21:32:09,Mostly Cloudy,3,0,19
+21:34:09,Mostly Cloudy,3,0,19
+21:36:08,Mostly Cloudy,3,0,19
+21:38:09,Mostly Cloudy,3,0,19
+21:40:09,Mostly Cloudy,3,0,19
+21:42:08,Mostly Cloudy,3,0,19
+21:44:09,Mostly Cloudy,3,0,19
+21:46:08,Mostly Cloudy,3,0,19
+21:48:09,Mostly Cloudy,3,0,19
+21:50:09,Mostly Cloudy,3,0,19
+21:52:08,Mostly Cloudy,3,0,19
+21:54:09,Mostly Cloudy,3,0,19
+21:56:09,Mostly Cloudy,3,0,19
+21:58:09,Mostly Cloudy,3,0,19
+22:00:08,Mostly Cloudy,3,0,19
+22:02:09,Mostly Cloudy,3,0,19
+22:04:08,Mostly Cloudy,3,0,19
+22:06:08,Mostly Cloudy,3,0,19
+22:08:09,Mostly Cloudy,3,0,19
+22:10:09,Mostly Cloudy,3,0,19
+22:12:08,Mostly Cloudy,3,0,19
+22:14:09,Mostly Cloudy,3,0,20
+22:16:08,Mostly Cloudy,3,0,20
+22:18:09,Mostly Cloudy,3,0,20
+22:20:09,Mostly Cloudy,3,0,20
+22:22:08,Mostly Cloudy,3,0,20
+22:24:09,Mostly Cloudy,3,0,20
+22:26:08,Mostly Cloudy,3,0,20
+22:28:09,Mostly Cloudy,3,0,20
+22:30:08,Mostly Cloudy,3,0,20
+22:32:08,Mostly Cloudy,3,0,20
+22:34:09,Mostly Cloudy,3,0,20
+22:36:08,Mostly Cloudy,3,0,20
+22:38:08,Mostly Cloudy,3,0,20
+22:40:09,Mostly Cloudy,3,0,20
+22:42:09,Mostly Cloudy,3,0,20
+22:44:09,Mostly Cloudy,3,0,20
+22:46:08,Mostly Cloudy,3,0,20
+22:48:08,Mostly Cloudy,3,0,20
+22:50:09,Mostly Cloudy,3,0,20
+22:52:09,Mostly Cloudy,3,0,20
+22:54:09,Mostly Cloudy,3,0,20
+22:56:08,Mostly Cloudy,3,0,20
+22:58:09,Mostly Cloudy,3,0,20
+23:00:09,Mostly Cloudy,3,0,20
+23:02:09,Mostly Cloudy,3,0,20
+23:04:08,Mostly Cloudy,3,0,20
+23:06:09,Mostly Cloudy,3,0,20
+23:08:09,Mostly Cloudy,3,0,20
+23:10:09,Mostly Cloudy,3,0,20
+23:12:08,Mostly Cloudy,3,0,20
+23:14:09,Partly Cloudy,2,-1,19
+23:16:09,Partly Cloudy,2,-1,19
+23:18:08,Partly Cloudy,2,-1,19
+23:20:09,Partly Cloudy,2,-1,19
+23:22:09,Partly Cloudy,2,-1,19
+23:24:09,Partly Cloudy,2,-1,19
+23:26:09,Partly Cloudy,2,-1,19
+23:28:09,Partly Cloudy,2,-1,19
+23:30:09,Partly Cloudy,2,-1,19
+23:32:09,Partly Cloudy,2,-1,19
+23:34:09,Partly Cloudy,2,-1,19
+23:36:08,Partly Cloudy,2,-1,19
+23:38:08,Partly Cloudy,2,-1,19
+23:40:09,Partly Cloudy,2,-1,19
+23:42:09,Partly Cloudy,2,-1,19
+23:44:09,Partly Cloudy,2,-1,19
+23:46:08,Partly Cloudy,2,-1,19
+23:48:09,Partly Cloudy,2,-1,19
+23:50:09,Partly Cloudy,2,-1,19
+23:52:09,Partly Cloudy,2,-1,19
+23:54:08,Partly Cloudy,2,-1,19
+23:56:09,Partly Cloudy,2,-1,19
+23:58:09,Partly Cloudy,2,-1,19

@@ -1,0 +1,721 @@
+Time,Weather,Temperature,Feels_Like,Wind_Speed
+00:00:09,Fair,17,17,calm
+00:02:08,Fair,17,17,calm
+00:04:09,Fair,17,17,calm
+00:06:09,Fair,17,17,calm
+00:08:09,Fair,17,17,calm
+00:10:08,Fair,17,17,calm
+00:12:09,Fair,17,17,calm
+00:14:09,Fair,15,15,calm
+00:16:09,Fair,15,15,calm
+00:18:08,Fair,15,15,calm
+00:20:09,Fair,15,15,calm
+00:22:09,Fair,15,15,calm
+00:24:09,Fair,15,15,calm
+00:26:08,Fair,15,15,calm
+00:28:09,Fair,15,15,calm
+00:30:09,Fair,15,15,calm
+00:32:09,Fair,15,15,calm
+00:34:08,Fair,15,15,calm
+00:36:09,Fair,15,15,calm
+00:38:09,Fair,15,15,calm
+00:40:08,Fair,15,15,calm
+00:42:08,Fair,15,15,calm
+00:44:09,Fair,15,15,calm
+00:46:09,Fair,15,15,calm
+00:48:08,Fair,15,15,calm
+00:50:09,Fair,15,15,calm
+00:52:09,Fair,15,15,calm
+00:54:08,Fair,15,15,calm
+00:56:08,Fair,15,15,calm
+00:58:09,Fair,15,15,calm
+01:00:17,Fair,15,15,calm
+01:02:08,Fair,15,15,calm
+01:04:09,Fair,15,15,calm
+01:06:09,Fair,15,15,calm
+01:08:08,Fair,15,15,calm
+01:10:08,Fair,15,15,calm
+01:12:09,Fair,15,15,calm
+01:14:09,Fair,15,15,calm
+01:16:08,Fair,15,15,calm
+01:18:09,Fair,15,15,calm
+01:20:09,Fair,15,15,calm
+01:22:08,Fair,15,15,calm
+01:24:09,Fair,15,15,calm
+01:26:09,Fair,15,15,calm
+01:28:09,Fair,15,15,calm
+01:30:08,Fair,15,15,calm
+01:32:08,Fair,15,15,calm
+01:34:09,Fair,15,15,calm
+01:36:08,Fair,15,15,calm
+01:38:09,Fair,15,15,calm
+01:40:09,Fair,15,15,calm
+01:42:09,Fair,15,15,calm
+01:44:08,Fair,15,15,calm
+01:46:09,Fair,15,15,calm
+01:48:09,Fair,15,15,calm
+01:50:09,Fair,15,15,calm
+01:52:08,Fair,15,15,calm
+01:54:08,Fair,15,15,calm
+01:56:09,Fair,15,15,calm
+01:58:09,Fair,15,15,calm
+02:00:09,Fair,15,15,calm
+02:02:08,Fair,15,15,calm
+02:04:09,Fair,15,15,calm
+02:06:09,Fair,15,15,calm
+02:08:09,Fair,15,15,calm
+02:10:09,Fair,15,15,calm
+02:12:09,Fair,15,15,calm
+02:14:09,Fair,15,15,calm
+02:16:09,Fair,15,15,calm
+02:18:08,Fair,15,15,calm
+02:20:08,Fair,15,15,calm
+02:22:09,Fair,15,15,calm
+02:24:09,Fair,15,15,calm
+02:26:08,Fair,15,15,calm
+02:28:08,Fair,15,15,calm
+02:30:09,Fair,15,15,calm
+02:32:09,Fair,15,15,calm
+02:34:08,Fair,15,15,calm
+02:36:09,Fair,15,15,calm
+02:38:09,Fair,15,15,calm
+02:40:09,Fair,15,15,calm
+02:42:08,Fair,15,15,calm
+02:44:08,Fair,15,15,calm
+02:46:09,Fair,15,15,calm
+02:48:09,Fair,15,15,calm
+02:50:08,Fair,15,15,calm
+02:52:09,Fair,15,15,calm
+02:54:09,Fair,15,15,calm
+02:56:08,Fair,15,15,calm
+02:58:09,Fair,15,15,calm
+03:00:09,Fair,15,15,calm
+03:02:09,Fair,15,15,calm
+03:04:09,Fair,15,15,calm
+03:06:09,Fair,15,15,calm
+03:08:09,Fair,15,15,calm
+03:10:09,Fair,15,15,calm
+03:12:09,Fair,15,15,calm
+03:14:09,Fair,13,13,calm
+03:16:08,Fair,13,13,calm
+03:18:09,Fair,13,13,calm
+03:20:09,Fair,13,13,calm
+03:22:08,Fair,13,13,calm
+03:24:08,Fair,13,13,calm
+03:26:09,Fair,13,13,calm
+03:28:09,Fair,13,13,calm
+03:30:08,Fair,13,13,calm
+03:32:09,Fair,13,13,calm
+03:34:09,Fair,13,13,calm
+03:36:08,Fair,13,13,calm
+03:38:09,Fair,13,13,calm
+03:40:09,Fair,13,13,calm
+03:42:09,Fair,13,13,calm
+03:44:09,Fair,13,13,calm
+03:46:08,Fair,13,13,calm
+03:48:08,Fair,13,13,calm
+03:50:09,Fair,13,13,calm
+03:52:09,Fair,13,13,calm
+03:54:09,Fair,13,13,calm
+03:56:08,Fair,13,13,calm
+03:58:08,Fair,13,13,calm
+04:00:09,Fair,13,13,calm
+04:02:09,Fair,13,13,calm
+04:04:08,Fair,13,13,calm
+04:06:08,Fair,13,13,calm
+04:08:09,Fair,13,13,calm
+04:10:09,Fair,13,13,calm
+04:12:08,Fair,13,13,calm
+04:14:08,Fair,12,12,3
+04:16:09,Fair,12,12,3
+04:18:08,Fair,12,12,3
+04:20:08,Fair,12,12,3
+04:22:09,Fair,12,12,3
+04:24:09,Fair,12,12,3
+04:26:09,Fair,12,12,3
+04:28:08,Fair,12,12,3
+04:30:09,Fair,12,12,3
+04:32:09,Fair,12,12,3
+04:34:08,Fair,12,12,3
+04:36:09,Fair,12,12,3
+04:38:09,Fair,12,12,3
+04:40:09,Fair,12,12,3
+04:42:08,Fair,12,12,3
+04:44:08,Fair,12,12,3
+04:46:09,Fair,12,12,3
+04:48:09,Fair,12,12,3
+04:50:08,Fair,12,12,3
+04:52:09,Fair,12,12,3
+04:54:09,Fair,12,12,3
+04:56:09,Fair,12,12,3
+04:58:09,Fair,12,12,3
+05:00:09,Fair,12,12,3
+05:02:09,Fair,12,12,3
+05:04:08,Fair,12,12,3
+05:06:09,Fair,12,12,3
+05:08:09,Fair,12,12,3
+05:10:09,Fair,12,12,3
+05:12:09,Fair,12,12,3
+05:14:09,Fair,12,12,calm
+05:16:08,Fair,12,12,calm
+05:18:09,Fair,12,12,calm
+05:20:09,Fair,12,12,calm
+05:22:09,Fair,12,12,calm
+05:24:08,Fair,12,12,calm
+05:26:09,Fair,12,12,calm
+05:28:09,Fair,12,12,calm
+05:30:09,Fair,12,12,calm
+05:32:09,Fair,12,12,calm
+05:34:09,Fair,12,12,calm
+05:36:09,Fair,12,12,calm
+05:38:09,Fair,12,12,calm
+05:40:08,Fair,12,12,calm
+05:42:09,Fair,12,12,calm
+05:44:09,Fair,12,12,calm
+05:46:09,Fair,12,12,calm
+05:48:08,Fair,12,12,calm
+05:50:09,Fair,12,12,calm
+05:52:09,Fair,12,12,calm
+05:54:09,Fair,12,12,calm
+05:56:08,Fair,12,12,calm
+05:58:09,Fair,12,12,calm
+06:00:09,Fair,12,12,calm
+06:02:08,Fair,12,12,calm
+06:04:09,Fair,12,12,calm
+06:06:09,Fair,12,12,calm
+06:08:09,Fair,12,12,calm
+06:10:08,Fair,12,12,calm
+06:12:08,Fair,12,12,calm
+06:14:09,Fair,17,17,calm
+06:16:09,Fair,17,17,calm
+06:18:08,Fair,17,17,calm
+06:20:09,Fair,17,17,calm
+06:22:09,Fair,17,17,calm
+06:24:08,Fair,17,17,calm
+06:26:08,Fair,17,17,calm
+06:28:09,Fair,17,17,calm
+06:30:09,Fair,17,17,calm
+06:32:09,Fair,17,17,calm
+06:34:08,Fair,17,17,calm
+06:36:08,Fair,17,17,calm
+06:38:09,Fair,17,17,calm
+06:40:09,Fair,17,17,calm
+06:42:09,Fair,17,17,calm
+06:44:08,Fair,17,17,calm
+06:46:09,Fair,17,17,calm
+06:48:09,Fair,17,17,calm
+06:50:08,Fair,17,17,calm
+06:52:09,Fair,17,17,calm
+06:54:09,Fair,17,17,calm
+06:56:08,Fair,17,17,calm
+06:58:09,Fair,17,17,calm
+07:00:09,Fair,17,17,calm
+07:02:08,Fair,17,17,calm
+07:04:09,Fair,17,17,calm
+07:06:09,Fair,17,17,calm
+07:08:09,Fair,18,18,12
+07:10:09,Fair,18,18,12
+07:12:09,Fair,18,18,12
+07:14:09,Fair,18,18,12
+07:16:08,Fair,18,18,12
+07:18:09,Fair,18,18,12
+07:20:08,Fair,18,18,12
+07:22:09,Fair,18,18,12
+07:24:09,Fair,18,18,12
+07:26:08,Fair,18,18,12
+07:28:09,Fair,18,18,12
+07:30:09,Fair,18,18,12
+07:32:09,Fair,18,18,12
+07:34:09,Fair,18,18,12
+07:36:09,Fair,18,18,12
+07:38:09,Fair,18,18,12
+07:40:09,Fair,18,18,12
+07:42:08,Fair,18,18,12
+07:44:08,Fair,20,20,12
+07:46:09,Fair,20,20,12
+07:48:09,Fair,20,20,12
+07:50:08,Fair,20,20,12
+07:52:09,Fair,20,20,12
+07:54:08,Fair,20,20,12
+07:56:08,Fair,20,20,12
+07:58:09,Fair,20,20,12
+08:00:09,Fair,20,20,12
+08:02:08,Fair,20,20,12
+08:04:09,Fair,20,20,12
+08:06:09,Fair,20,20,12
+08:08:08,Fair,20,20,12
+08:10:09,Fair,20,20,12
+08:12:09,Fair,20,20,12
+08:14:08,Fair,20,20,14
+08:16:09,Fair,20,20,14
+08:18:09,Fair,20,20,14
+08:20:08,Fair,20,20,14
+08:22:09,Fair,20,20,14
+08:24:09,Fair,20,20,14
+08:26:09,Fair,20,20,14
+08:28:08,Fair,20,20,14
+08:30:09,Fair,20,20,14
+08:32:09,Fair,20,20,14
+08:34:08,Fair,20,20,14
+08:36:09,Fair,20,20,14
+08:38:09,Fair,20,20,14
+08:40:08,Fair,20,20,14
+08:42:09,Fair,20,20,14
+08:44:09,Fair,21,21,11
+08:46:08,Fair,21,21,11
+08:48:08,Fair,21,21,11
+08:50:09,Fair,21,21,11
+08:52:09,Fair,21,21,11
+08:54:08,Fair,21,21,11
+08:56:08,Fair,21,21,11
+08:58:09,Fair,21,21,11
+09:00:09,Fair,21,21,11
+09:02:09,Fair,21,21,11
+09:04:09,Fair,21,21,11
+09:06:09,Fair,21,21,11
+09:08:09,Fair,21,21,11
+09:10:08,Fair,21,21,11
+09:12:09,Fair,21,21,11
+09:14:09,Partly Cloudy,21,21,12
+09:16:09,Partly Cloudy,21,21,12
+09:18:09,Partly Cloudy,21,21,12
+09:20:09,Partly Cloudy,21,21,12
+09:22:08,Partly Cloudy,21,21,12
+09:24:08,Partly Cloudy,21,21,12
+09:26:09,Partly Cloudy,21,21,12
+09:28:08,Partly Cloudy,21,21,12
+09:30:08,Partly Cloudy,21,21,12
+09:32:09,Partly Cloudy,21,21,12
+09:34:08,Partly Cloudy,21,21,12
+09:36:09,Partly Cloudy,21,21,12
+09:38:09,Partly Cloudy,21,21,12
+09:40:09,Partly Cloudy,21,21,12
+09:42:08,Partly Cloudy,21,21,12
+09:44:09,Partly Cloudy,21,21,12
+09:46:09,Partly Cloudy,21,21,12
+09:48:09,Partly Cloudy,21,21,12
+09:50:08,Partly Cloudy,21,21,12
+09:52:09,Partly Cloudy,21,21,12
+09:54:09,Partly Cloudy,21,21,12
+09:56:08,Partly Cloudy,21,21,12
+09:58:09,Partly Cloudy,21,21,12
+10:00:09,Partly Cloudy,21,21,12
+10:02:09,Partly Cloudy,21,21,12
+10:04:09,Partly Cloudy,21,21,12
+10:06:08,Partly Cloudy,21,21,12
+10:08:09,Partly Cloudy,21,21,12
+10:10:09,Partly Cloudy,21,21,12
+10:12:08,Partly Cloudy,21,21,12
+10:14:09,Partly Cloudy,22,22,11
+10:16:09,Partly Cloudy,22,22,11
+10:18:08,Partly Cloudy,22,22,11
+10:20:09,Partly Cloudy,22,22,11
+10:22:09,Partly Cloudy,22,22,11
+10:24:08,Partly Cloudy,22,22,11
+10:26:09,Partly Cloudy,22,22,11
+10:28:09,Partly Cloudy,22,22,11
+10:30:09,Partly Cloudy,22,22,11
+10:32:08,Partly Cloudy,22,22,11
+10:34:09,Partly Cloudy,22,22,11
+10:36:09,Partly Cloudy,22,22,11
+10:38:08,Partly Cloudy,22,22,11
+10:40:09,Partly Cloudy,22,22,11
+10:42:09,Partly Cloudy,22,22,11
+10:44:09,Partly Cloudy,22,22,9
+10:46:08,Partly Cloudy,22,22,9
+10:48:09,Partly Cloudy,22,22,9
+10:50:09,Partly Cloudy,22,22,9
+10:52:09,Partly Cloudy,22,22,9
+10:54:08,Partly Cloudy,22,22,9
+10:56:08,Partly Cloudy,22,22,9
+10:58:09,Partly Cloudy,22,22,9
+11:00:08,Partly Cloudy,22,22,9
+11:02:08,Partly Cloudy,22,22,9
+11:04:09,Partly Cloudy,22,22,9
+11:06:08,Partly Cloudy,22,22,9
+11:08:08,Partly Cloudy,22,22,9
+11:10:09,Partly Cloudy,22,22,9
+11:12:09,Partly Cloudy,22,22,9
+11:14:08,Partly Cloudy,22,22,4
+11:16:09,Partly Cloudy,22,22,4
+11:18:08,Partly Cloudy,22,22,4
+11:20:08,Partly Cloudy,22,22,4
+11:22:09,Partly Cloudy,22,22,4
+11:24:08,Partly Cloudy,22,22,4
+11:26:09,Partly Cloudy,22,22,4
+11:28:09,Partly Cloudy,22,22,4
+11:30:09,Partly Cloudy,22,22,4
+11:32:08,Partly Cloudy,22,22,4
+11:34:09,Partly Cloudy,22,22,4
+11:36:09,Partly Cloudy,22,22,4
+11:38:09,Partly Cloudy,22,22,4
+11:40:09,Partly Cloudy,22,22,4
+11:42:09,Partly Cloudy,22,22,4
+11:44:08,Partly Cloudy,22,22,4
+11:46:09,Partly Cloudy,22,22,4
+11:48:09,Partly Cloudy,22,22,4
+11:50:09,Partly Cloudy,22,22,4
+11:52:08,Partly Cloudy,22,22,4
+11:54:09,Partly Cloudy,22,22,4
+11:56:09,Partly Cloudy,22,22,4
+11:58:08,Partly Cloudy,22,22,4
+12:00:08,Partly Cloudy,22,22,4
+12:02:09,Partly Cloudy,22,22,4
+12:04:09,Partly Cloudy,22,22,4
+12:06:09,Partly Cloudy,22,22,4
+12:08:08,Partly Cloudy,22,22,4
+12:10:09,Partly Cloudy,22,22,4
+12:12:09,Partly Cloudy,22,22,4
+12:14:09,Partly Cloudy,23,23,8
+12:16:09,Partly Cloudy,23,23,8
+12:18:09,Partly Cloudy,23,23,8
+12:20:09,Partly Cloudy,23,23,8
+12:22:08,Partly Cloudy,23,23,8
+12:24:09,Partly Cloudy,23,23,8
+12:26:09,Partly Cloudy,23,23,8
+12:28:08,Partly Cloudy,23,23,8
+12:30:09,Partly Cloudy,23,23,8
+12:32:09,Partly Cloudy,23,23,8
+12:34:08,Partly Cloudy,23,23,8
+12:36:09,Partly Cloudy,23,23,8
+12:38:09,Partly Cloudy,23,23,8
+12:40:08,Partly Cloudy,23,23,8
+12:42:09,Partly Cloudy,23,23,8
+12:44:09,Mostly Cloudy,23,23,8
+12:46:08,Mostly Cloudy,23,23,8
+12:48:09,Mostly Cloudy,23,23,8
+12:50:09,Mostly Cloudy,23,23,8
+12:52:09,Mostly Cloudy,23,23,8
+12:54:09,Mostly Cloudy,23,23,8
+12:56:08,Mostly Cloudy,23,23,8
+12:58:09,Mostly Cloudy,23,23,8
+13:00:09,Mostly Cloudy,23,23,8
+13:02:08,Mostly Cloudy,23,23,8
+13:04:09,Mostly Cloudy,23,23,8
+13:06:09,Mostly Cloudy,23,23,8
+13:08:09,Mostly Cloudy,22,22,9
+13:10:09,Mostly Cloudy,22,22,9
+13:12:09,Mostly Cloudy,22,22,9
+13:14:09,Mostly Cloudy,23,23,8
+13:16:09,Mostly Cloudy,23,23,8
+13:18:08,Mostly Cloudy,23,23,8
+13:20:09,Mostly Cloudy,22,22,9
+13:22:09,Mostly Cloudy,22,22,9
+13:24:08,Mostly Cloudy,22,22,9
+13:26:09,Mostly Cloudy,22,22,9
+13:28:09,Mostly Cloudy,22,22,9
+13:30:09,Mostly Cloudy,22,22,9
+13:32:09,Mostly Cloudy,22,22,9
+13:34:08,Mostly Cloudy,22,22,9
+13:36:09,Mostly Cloudy,22,22,9
+13:38:09,Mostly Cloudy,22,22,11
+13:40:08,Mostly Cloudy,22,22,11
+13:42:09,Mostly Cloudy,22,22,11
+13:44:09,Mostly Cloudy,22,22,11
+13:46:08,Mostly Cloudy,22,22,11
+13:48:08,Mostly Cloudy,22,22,11
+13:50:09,Mostly Cloudy,22,22,11
+13:52:09,Mostly Cloudy,22,22,11
+13:54:09,Mostly Cloudy,22,22,11
+13:56:08,Mostly Cloudy,22,22,11
+13:58:09,Mostly Cloudy,22,22,11
+14:00:09,Mostly Cloudy,22,22,11
+14:02:08,Mostly Cloudy,22,22,11
+14:04:09,Mostly Cloudy,22,22,11
+14:06:09,Mostly Cloudy,22,22,11
+14:08:09,Mostly Cloudy,22,22,11
+14:10:08,Mostly Cloudy,22,22,11
+14:12:08,Mostly Cloudy,22,22,11
+14:14:09,Mostly Cloudy,23,23,12
+14:16:09,Mostly Cloudy,23,23,12
+14:18:08,Mostly Cloudy,23,23,12
+14:20:09,Mostly Cloudy,23,23,12
+14:22:08,Mostly Cloudy,23,23,12
+14:24:09,Mostly Cloudy,23,23,12
+14:26:09,Mostly Cloudy,23,23,12
+14:28:09,Mostly Cloudy,23,23,12
+14:30:09,Mostly Cloudy,23,23,12
+14:32:08,Mostly Cloudy,23,23,12
+14:34:09,Mostly Cloudy,23,23,12
+14:36:09,Mostly Cloudy,23,23,12
+14:38:09,Mostly Cloudy,22,22,11
+14:40:08,Mostly Cloudy,22,22,11
+14:42:09,Mostly Cloudy,22,22,11
+14:44:08,Mostly Cloudy,22,22,11
+14:46:09,Mostly Cloudy,22,22,11
+14:48:09,Mostly Cloudy,22,22,11
+14:50:09,Mostly Cloudy,22,22,11
+14:52:09,Mostly Cloudy,22,22,11
+14:54:09,Mostly Cloudy,22,22,11
+14:56:09,Mostly Cloudy,22,22,11
+14:58:09,Mostly Cloudy,22,22,11
+15:00:09,Mostly Cloudy,22,22,11
+15:02:09,Mostly Cloudy,22,22,11
+15:04:08,Mostly Cloudy,22,22,11
+15:06:09,Mostly Cloudy,22,22,11
+15:08:09,Mostly Cloudy,22,22,11
+15:10:09,Mostly Cloudy,22,22,11
+15:12:08,Mostly Cloudy,22,22,11
+15:14:08,Mostly Cloudy,23,23,9
+15:16:09,Mostly Cloudy,23,23,9
+15:18:08,Mostly Cloudy,23,23,9
+15:20:09,Mostly Cloudy,23,23,9
+15:22:09,Mostly Cloudy,23,23,9
+15:24:09,Mostly Cloudy,23,23,9
+15:26:08,Mostly Cloudy,23,23,9
+15:28:09,Mostly Cloudy,23,23,9
+15:30:09,Mostly Cloudy,23,23,9
+15:32:08,Mostly Cloudy,23,23,9
+15:34:09,Mostly Cloudy,23,23,9
+15:36:09,Mostly Cloudy,23,23,9
+15:38:08,Mostly Cloudy,23,23,9
+15:40:09,Mostly Cloudy,23,23,9
+15:42:09,Mostly Cloudy,23,23,9
+15:44:09,Mostly Cloudy,23,23,9
+15:46:08,Mostly Cloudy,23,23,9
+15:48:09,Mostly Cloudy,23,23,9
+15:50:09,Mostly Cloudy,23,23,9
+15:52:08,Mostly Cloudy,23,23,9
+15:54:09,Mostly Cloudy,23,23,9
+15:56:09,Mostly Cloudy,23,23,9
+15:58:09,Mostly Cloudy,23,23,9
+16:00:09,Mostly Cloudy,23,23,9
+16:02:09,Mostly Cloudy,23,23,9
+16:04:08,Mostly Cloudy,23,23,9
+16:06:09,Mostly Cloudy,23,23,9
+16:08:09,Mostly Cloudy,23,23,9
+16:10:08,Mostly Cloudy,23,23,9
+16:12:08,Mostly Cloudy,23,23,9
+16:14:09,Mostly Cloudy,22,22,11
+16:16:09,Mostly Cloudy,22,22,11
+16:18:08,Mostly Cloudy,22,22,11
+16:20:09,Mostly Cloudy,22,22,11
+16:22:08,Mostly Cloudy,22,22,11
+16:24:09,Mostly Cloudy,22,22,11
+16:26:09,Mostly Cloudy,22,22,11
+16:28:08,Mostly Cloudy,22,22,11
+16:30:08,Mostly Cloudy,22,22,11
+16:32:09,Mostly Cloudy,22,22,11
+16:34:09,Mostly Cloudy,22,22,11
+16:36:09,Mostly Cloudy,22,22,11
+16:38:09,Mostly Cloudy,22,22,11
+16:40:09,Mostly Cloudy,22,22,11
+16:42:08,Mostly Cloudy,22,22,11
+16:44:09,Mostly Cloudy,22,22,11
+16:46:09,Mostly Cloudy,22,22,11
+16:48:09,Mostly Cloudy,22,22,11
+16:50:08,Mostly Cloudy,22,22,11
+16:52:08,Mostly Cloudy,22,22,11
+16:54:08,Mostly Cloudy,22,22,11
+16:56:09,Mostly Cloudy,22,22,11
+16:58:09,Mostly Cloudy,22,22,11
+17:00:08,Mostly Cloudy,22,22,11
+17:02:09,Mostly Cloudy,22,22,11
+17:04:09,Mostly Cloudy,22,22,11
+17:06:08,Mostly Cloudy,22,22,11
+17:08:09,Mostly Cloudy,22,22,11
+17:10:09,Mostly Cloudy,22,22,11
+17:12:09,Mostly Cloudy,22,22,11
+17:14:08,Mostly Cloudy,22,22,22
+17:16:09,Mostly Cloudy,22,22,22
+17:18:09,Mostly Cloudy,22,22,22
+17:20:08,Mostly Cloudy,22,22,22
+17:22:09,Mostly Cloudy,22,22,22
+17:24:09,Mostly Cloudy,22,22,22
+17:26:09,Mostly Cloudy,22,22,22
+17:28:08,Mostly Cloudy,22,22,22
+17:30:08,Mostly Cloudy,22,22,22
+17:32:09,Mostly Cloudy,22,22,22
+17:34:09,Mostly Cloudy,22,22,22
+17:36:08,Mostly Cloudy,22,22,22
+17:38:09,Mostly Cloudy,22,22,22
+17:40:09,Mostly Cloudy,22,22,22
+17:42:08,Mostly Cloudy,22,22,22
+17:44:09,Mostly Cloudy,22,22,22
+17:46:09,Mostly Cloudy,22,22,22
+17:48:09,Mostly Cloudy,22,22,22
+17:50:08,Mostly Cloudy,22,22,22
+17:52:09,Mostly Cloudy,22,22,22
+17:54:09,Mostly Cloudy,22,22,22
+17:56:08,Mostly Cloudy,22,22,22
+17:58:09,Mostly Cloudy,22,22,22
+18:00:09,Mostly Cloudy,22,22,22
+18:02:09,Mostly Cloudy,22,22,22
+18:04:08,Mostly Cloudy,22,22,22
+18:06:09,Mostly Cloudy,22,22,22
+18:08:09,Mostly Cloudy,22,22,22
+18:10:09,Mostly Cloudy,22,22,22
+18:12:09,Mostly Cloudy,22,22,22
+18:14:09,Mostly Cloudy,22,22,22
+18:16:08,Mostly Cloudy,22,22,22
+18:18:09,Partly Cloudy,20,20,20
+18:20:09,Partly Cloudy,20,20,20
+18:22:09,Partly Cloudy,20,20,20
+18:24:09,Partly Cloudy,20,20,20
+18:26:09,Partly Cloudy,20,20,20
+18:28:09,Partly Cloudy,20,20,20
+18:30:08,Partly Cloudy,20,20,20
+18:32:09,Partly Cloudy,20,20,20
+18:34:09,Partly Cloudy,20,20,20
+18:36:08,Partly Cloudy,20,20,20
+18:38:09,Partly Cloudy,20,20,20
+18:40:09,Partly Cloudy,20,20,20
+18:42:08,Partly Cloudy,20,20,20
+18:44:09,Partly Cloudy,20,20,20
+18:46:09,Partly Cloudy,20,20,20
+18:48:08,Partly Cloudy,20,20,20
+18:50:09,Partly Cloudy,20,20,20
+18:52:09,Partly Cloudy,20,20,20
+18:54:08,Partly Cloudy,20,20,20
+18:56:09,Partly Cloudy,20,20,20
+18:58:09,Partly Cloudy,20,20,20
+19:00:09,Partly Cloudy,20,20,20
+19:02:08,Partly Cloudy,20,20,20
+19:04:09,Partly Cloudy,20,20,20
+19:06:09,Partly Cloudy,20,20,20
+19:08:08,Partly Cloudy,20,20,20
+19:10:08,Partly Cloudy,17,17,16
+19:12:09,Partly Cloudy,17,17,16
+19:14:08,Partly Cloudy,17,17,16
+19:16:09,Partly Cloudy,17,17,16
+19:18:09,Partly Cloudy,17,17,16
+19:20:08,Partly Cloudy,17,17,16
+19:22:09,Partly Cloudy,17,17,16
+19:24:09,Partly Cloudy,17,17,16
+19:26:09,Partly Cloudy,17,17,16
+19:28:09,Partly Cloudy,17,17,16
+19:30:08,Partly Cloudy,17,17,16
+19:32:09,Partly Cloudy,17,17,16
+19:34:09,Partly Cloudy,17,17,16
+19:36:08,Partly Cloudy,17,17,16
+19:38:09,Partly Cloudy,17,17,16
+19:40:08,Partly Cloudy,17,17,16
+19:42:09,Partly Cloudy,17,17,16
+19:44:09,Partly Cloudy,17,17,16
+19:46:08,Partly Cloudy,17,17,16
+19:48:09,Partly Cloudy,17,17,16
+19:50:08,Partly Cloudy,17,17,16
+19:52:09,Partly Cloudy,17,17,16
+19:54:09,Partly Cloudy,17,17,16
+19:56:08,Partly Cloudy,17,17,16
+19:58:08,Partly Cloudy,17,17,16
+20:00:08,Partly Cloudy,17,17,16
+20:02:09,Partly Cloudy,17,17,16
+20:04:09,Partly Cloudy,17,17,16
+20:06:08,Partly Cloudy,17,17,16
+20:08:09,Partly Cloudy,17,17,16
+20:10:09,Partly Cloudy,17,17,16
+20:12:09,Partly Cloudy,16,16,16
+20:14:08,Partly Cloudy,16,16,16
+20:16:09,Partly Cloudy,16,16,16
+20:18:08,Partly Cloudy,16,16,16
+20:20:09,Partly Cloudy,16,16,16
+20:22:09,Partly Cloudy,16,16,16
+20:24:08,Partly Cloudy,16,16,16
+20:26:09,Partly Cloudy,16,16,16
+20:28:09,Partly Cloudy,16,16,16
+20:30:09,Partly Cloudy,16,16,16
+20:32:08,Partly Cloudy,16,16,16
+20:34:09,Partly Cloudy,16,16,16
+20:36:09,Partly Cloudy,16,16,16
+20:38:09,Partly Cloudy,16,16,16
+20:40:08,Partly Cloudy,16,16,16
+20:42:09,Partly Cloudy,16,16,16
+20:44:08,Partly Cloudy,16,16,16
+20:46:09,Partly Cloudy,16,16,16
+20:48:09,Partly Cloudy,16,16,16
+20:50:09,Partly Cloudy,16,16,16
+20:52:09,Partly Cloudy,16,16,16
+20:54:08,Partly Cloudy,16,16,16
+20:56:09,Partly Cloudy,16,16,16
+20:58:09,Partly Cloudy,16,16,16
+21:00:08,Partly Cloudy,16,16,16
+21:02:09,Partly Cloudy,16,16,16
+21:04:09,Partly Cloudy,16,16,16
+21:06:08,Partly Cloudy,16,16,16
+21:08:09,Partly Cloudy,16,16,16
+21:10:09,Partly Cloudy,16,16,16
+21:12:08,Cloudy,15,15,20
+21:14:09,Cloudy,15,15,20
+21:16:09,Cloudy,15,15,20
+21:18:08,Cloudy,15,15,20
+21:20:09,Cloudy,15,15,20
+21:22:09,Cloudy,15,15,20
+21:24:08,Cloudy,15,15,20
+21:26:09,Cloudy,15,15,20
+21:28:08,Cloudy,15,15,20
+21:30:08,Cloudy,15,15,20
+21:32:09,Cloudy,15,15,20
+21:34:09,Cloudy,15,15,20
+21:36:08,Cloudy,15,15,20
+21:38:09,Cloudy,15,15,20
+21:40:09,Cloudy,15,15,20
+21:42:09,Cloudy,15,15,20
+21:44:09,Cloudy,15,15,20
+21:46:09,Cloudy,15,15,20
+21:48:09,Cloudy,15,15,20
+21:50:09,Cloudy,15,15,20
+21:52:08,Cloudy,15,15,20
+21:54:08,Cloudy,15,15,20
+21:56:09,Cloudy,15,15,20
+21:58:08,Cloudy,15,15,20
+22:00:08,Cloudy,15,15,20
+22:02:09,Cloudy,15,15,20
+22:04:09,Cloudy,15,15,20
+22:06:09,Cloudy,15,15,20
+22:08:08,Cloudy,15,15,20
+22:10:09,Cloudy,15,15,20
+22:12:09,Cloudy,15,15,16
+22:14:09,Cloudy,15,15,16
+22:16:09,Cloudy,15,15,16
+22:18:09,Cloudy,15,15,16
+22:20:09,Cloudy,15,15,16
+22:22:08,Cloudy,15,15,16
+22:24:09,Cloudy,15,15,16
+22:26:09,Cloudy,15,15,16
+22:28:08,Cloudy,15,15,16
+22:30:09,Cloudy,15,15,16
+22:32:09,Cloudy,15,15,16
+22:34:08,Cloudy,15,15,16
+22:36:09,Cloudy,15,15,16
+22:38:09,Cloudy,15,15,16
+22:40:08,Cloudy,15,15,16
+22:42:09,Cloudy,15,15,16
+22:44:09,Cloudy,15,15,16
+22:46:08,Cloudy,15,15,16
+22:48:08,Cloudy,15,15,16
+22:50:09,Cloudy,15,15,16
+22:52:08,Cloudy,15,15,16
+22:54:09,Cloudy,15,15,16
+22:56:08,Cloudy,15,15,16
+22:58:09,Cloudy,15,15,16
+23:00:09,Cloudy,15,15,16
+23:02:08,Cloudy,15,15,16
+23:04:08,Cloudy,15,15,16
+23:06:09,Cloudy,15,15,16
+23:08:09,Cloudy,15,15,16
+23:10:08,Cloudy,15,15,16
+23:12:08,Cloudy,15,15,19
+23:14:09,Cloudy,15,15,19
+23:16:09,Cloudy,15,15,19
+23:18:08,Cloudy,15,15,19
+23:20:09,Cloudy,15,15,19
+23:22:09,Cloudy,15,15,19
+23:24:09,Cloudy,15,15,19
+23:26:09,Cloudy,15,15,19
+23:28:09,Cloudy,15,15,19
+23:30:08,Cloudy,15,15,19
+23:32:09,Cloudy,15,15,19
+23:34:09,Cloudy,15,15,19
+23:36:09,Cloudy,15,15,19
+23:38:08,Cloudy,15,15,19
+23:40:09,Cloudy,15,15,19
+23:42:09,Cloudy,15,15,19
+23:44:08,Cloudy,15,15,19
+23:46:08,Cloudy,15,15,19
+23:48:09,Cloudy,15,15,19
+23:50:09,Cloudy,15,15,19
+23:52:09,Cloudy,15,15,19
+23:54:08,Cloudy,15,15,19
+23:56:09,Cloudy,15,15,19
+23:58:09,Cloudy,15,15,19
