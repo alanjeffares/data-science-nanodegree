@@ -1,10 +1,10 @@
-## Dublin Bikes Analysis
+# Dublin Bikes Analysis
 
-# About 
+## About 
 
 This repository contains the code and data to accompany my Medium blog post titled How I used Machine Leaning to improve my Dublin Bikes transit. In this project I analyse Dublin Bikes data which is made freely available by the Irish national open data project and was collected and shared by James Lawlor. 
 
-# Usage
+## Usage
 
 The analysis has been split into 3 notebooks that roughly correspond to the 3 questions discussed in the article. 
 1. `data_load_processing_viz.ipynb` pre-processes the messy input data files, makes some overview visualisations and saves the processed data as `full_data.csv` which is used for all further analysis. 
