@@ -2,7 +2,7 @@
 
 ## About 
 
-This repository contains the code and data to accompany my Medium blog post titled How I used Machine Leaning to improve my Dublin Bikes transit. In this project I analyse Dublin Bikes data which is made freely available by the Irish national open data project and was collected and shared by James Lawlor. 
+This repository contains the code and data to accompany my Medium blog post titled How I used Machine Leaning to improve my Dublin Bikes transit. In this project I analyse Dublin Bikes data which is made freely available by the Irish national open data project and was collected and shared by [James Lawlor](https://github.com/jameslawlor/dublin-bikes-timeseries-analysis). 
 
 ## Usage
 
