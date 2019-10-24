@@ -20,6 +20,10 @@ def clean_data(df):
     categories = df['categories'].str.split(';', expand=True)
     categories.columns = categories.iloc[0,:].map(extract_category).values
     categories = categories.applymap(category_to_bool)
+    # this field should be binary
+    categories.loc[categories['related']==2, 'related'] = categories['related'].mode()[0]
+    # only takes value 0 in this dataset
+    categories.drop(columns=['child_alone'], inplace=True)
     df = df.drop('categories', axis=1)
     df = df.merge(categories, left_index=True, right_index=True)
     df.drop_duplicates(inplace=True)
@@ -55,7 +59,6 @@ def main():
               'to as the third argument. \n\nExample: python process_data.py '\
               'disaster_messages.csv disaster_categories.csv '\
               'DisasterResponse.db')
-
 
 
 if __name__ == '__main__':
