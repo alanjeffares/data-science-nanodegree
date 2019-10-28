@@ -3,7 +3,7 @@
 ## Introduction
 This project takes two datasets containing real messages that were sent during disaster events. I create a ETL pipeline followed by a machine learning pipeline to categorize these messages so that they can be connected to an appropriate disaster relief agency. Finally, I include a Flask web application that applies this pipeline to user input and includes some descriptive plots of the data. 
 
-<img src="https://raw.githubusercontent.com/alanjeffares/elements-of-statistical-learning/master/chapter-2/images/MSE_vs_Dimension_1.png"  width="400"> <img src="https://github.com/alanjeffares/data-science-nanodegree/blob/master/disaster-response-pipeline/app_screenshot.png"  width="400">
+width="400"> <img src="https://github.com/alanjeffares/data-science-nanodegree/blob/master/disaster-response-pipeline/app_screenshot.png"  width="500">
 
 ## Structure 
 ```
