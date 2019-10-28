@@ -22,7 +22,7 @@ app = Flask(__name__)
 
 
 class StartingVerbExtractor(BaseEstimator, TransformerMixin):
-
+    """Check if first word is a verb"""
     def starting_verb(self, text):
         sentence_list = nltk.sent_tokenize(text)
         for sentence in sentence_list:
@@ -56,11 +56,11 @@ def parse_colnames(x: pd.Series) -> str:
     return x_str
 
 # load data
-engine = create_engine('sqlite:///../data/DisasterResponse.db')
+engine = create_engine('sqlite:///data/DisasterResponse.db')
 df = pd.read_sql_table('tweets', engine)
 
 # load model
-model = joblib.load("../models/classifier.pkl")
+model = joblib.load("models/classifier.pkl")
 
 
 # index webpage displays cool visuals and receives user input text for model

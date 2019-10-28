@@ -18,7 +18,7 @@ from sklearn.metrics import accuracy_score, classification_report
 from sklearn.base import BaseEstimator, TransformerMixin
 
 
-def tokenize(text):
+def tokenize(text: str) -> list:
 
     tokens = nltk.tokenize.word_tokenize(text)
     lemmatizer = nltk.stem.WordNetLemmatizer()
@@ -28,6 +28,7 @@ def tokenize(text):
     return clean_tokens
 
 class StartingVerbExtractor(BaseEstimator, TransformerMixin):
+    """Check if first word is a verb"""
 
     def starting_verb(self, text):
         sentence_list = nltk.sent_tokenize(text)
@@ -45,8 +46,9 @@ class StartingVerbExtractor(BaseEstimator, TransformerMixin):
         X_tagged = pd.Series(X).apply(self.starting_verb)
         return pd.DataFrame(X_tagged)
     
-def load_data(database_filepath):
-    engine = create_engine('sqlite:///{}'.format(database_filepath))
+def load_data(database_file):
+    """Load processed data from DB"""
+    engine = create_engine('sqlite:///data/{}'.format(database_file))
     df = pd.read_sql('tweets', con=engine)
     X = df['message']
     Y = df.drop(columns=['id', 'message', 'original', 'genre'])
@@ -54,6 +56,7 @@ def load_data(database_filepath):
     return X, Y, category_names
 
 def build_model():
+    """Define sklearn pipeline and parameters"""
     pipeline = Pipeline([
         ('features', FeatureUnion([
 
@@ -95,6 +98,7 @@ def build_model():
     return cv
 
 def evaluate_model(model, X_test, Y_test, category_names):
+    """Save model results to local csv file"""
     Y_pred = model.predict(X_test)
     Y_pred = pd.DataFrame(Y_pred, columns=category_names)
     
@@ -118,21 +122,22 @@ def evaluate_model(model, X_test, Y_test, category_names):
     stored_results = pd.DataFrame({'Model': [model_name], 'Accuracy': [avg_accuracy], 'Precision': [avg_precision], 
                                'Recall': [avg_recall], 'Parameters': [params]})
 
-    add_header = not os.path.isfile('model_results.csv')
-    with open('Model_results.csv', 'a') as f:
+    add_header = not os.path.isfile('models/model_results.csv')
+    with open('models/model_results.csv', 'a') as f:
         stored_results.to_csv(f, header=add_header, index=False)
 
 
-def save_model(model, model_filepath):
-    with open(model_filepath,'wb') as f:
+def save_model(model, model_file):
+    path = 'models/'
+    with open(path + model_file,'wb') as f:
         pickle.dump(model, f)
 
 
 def main():
     if len(sys.argv) == 3:
-        database_filepath, model_filepath = sys.argv[1:]
-        print('Loading data...\n    DATABASE: {}'.format(database_filepath))
-        X, Y, category_names = load_data(database_filepath)
+        database_file, model_file = sys.argv[1:]
+        print('Loading data...\n    DATABASE: {}'.format(database_file))
+        X, Y, category_names = load_data(database_file)
         X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size=0.3)
         
         print('Building model...')
@@ -144,17 +149,16 @@ def main():
         print('Evaluating model...')
         evaluate_model(model, X_test, Y_test, category_names)
 
-        print('Saving model...\n    MODEL: {}'.format(model_filepath))
-        save_model(model, model_filepath)
+        print('Saving model...\n    MODEL: {}'.format(model_file))
+        save_model(model, model_file)
 
         print('Trained model saved!')
 
     else:
-        print('Please provide the filepath of the disaster messages database '\
-              'as the first argument and the filepath of the pickle file to '\
+        print('Please provide the filename of the disaster messages database '\
+              'as the first argument and the filename of the pickle file to '\
               'save the model to as the second argument. \n\nExample: python '\
-              'train_classifier.py ../data/DisasterResponse.db classifier.pkl')
+              'models/train_classifier.py DisasterResponse.db classifier.pkl')
 
 if __name__ == '__main__':
     main()
-    
