@@ -1,0 +1,33 @@
+Model,Accuracy,Precision,Recall,Parameters
+MultiOutputClassifier,0.9442957652671987,0.7678783363698939,0.5960995491880651,"{'clf': MultiOutputClassifier(estimator=LinearSVC(C=1.0, class_weight=None, dual=True,
+                                          fit_intercept=True,
+                                          intercept_scaling=1,
+                                          loss='squared_hinge', max_iter=1000,
+                                          multi_class='ovr', penalty='l2',
+                                          random_state=None, tol=0.0001,
+                                          verbose=0),
+                      n_jobs=None), 'features__text_pipeline__tfidf__use_idf': False, 'features__text_pipeline__vect__max_df': 0.5, 'features__text_pipeline__vect__max_features': None, 'features__text_pipeline__vect__min_df': 1}"
+MultiOutputClassifier,0.9498814746192201,0.7910800527197439,0.6458769987294234,"{'clf': MultiOutputClassifier(estimator=LinearSVC(C=1.0, class_weight=None, dual=True,
+                                          fit_intercept=True,
+                                          intercept_scaling=1,
+                                          loss='squared_hinge', max_iter=1000,
+                                          multi_class='ovr', penalty='l2',
+                                          random_state=None, tol=0.0001,
+                                          verbose=0),
+                      n_jobs=None), 'features__text_pipeline__tfidf__use_idf': False, 'features__text_pipeline__vect__max_df': 0.5, 'features__text_pipeline__vect__max_features': 5000, 'features__text_pipeline__vect__min_df': 1}"
+MultiOutputClassifier,0.9506116999536797,0.7908253021305057,0.6503154367241104,"{'clf': MultiOutputClassifier(estimator=LinearSVC(C=1.0, class_weight=None, dual=True,
+                                          fit_intercept=True,
+                                          intercept_scaling=1,
+                                          loss='squared_hinge', max_iter=1000,
+                                          multi_class='ovr', penalty='l2',
+                                          random_state=None, tol=0.0001,
+                                          verbose=0),
+                      n_jobs=None), 'features__text_pipeline__tfidf__use_idf': False, 'features__text_pipeline__vect__max_df': 0.5, 'features__text_pipeline__vect__max_features': None, 'features__text_pipeline__vect__min_df': 1}"
+MultiOutputClassifier,0.949581327763146,0.7874610125215383,0.6401260431040128,"{'clf': MultiOutputClassifier(estimator=LinearSVC(C=1.0, class_weight=None, dual=True,
+                                          fit_intercept=True,
+                                          intercept_scaling=1,
+                                          loss='squared_hinge', max_iter=1000,
+                                          multi_class='ovr', penalty='l2',
+                                          random_state=None, tol=0.0001,
+                                          verbose=0),
+                      n_jobs=None), 'features__text_pipeline__tfidf__use_idf': False, 'features__text_pipeline__vect__max_df': 1.0, 'features__text_pipeline__vect__max_features': None, 'features__text_pipeline__vect__min_df': 1}"
