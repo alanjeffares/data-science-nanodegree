@@ -1,6 +1,7 @@
 import json
 import plotly
 import pandas as pd
+import numpy as np
 
 import nltk
 from nltk.stem import WordNetLemmatizer
@@ -8,8 +9,9 @@ from nltk.tokenize import word_tokenize
 
 from flask import Flask
 from flask import render_template, request, jsonify
-from plotly.graph_objs import Bar
-# from sklearn.externals import joblib
+from plotly.graph_objects import Bar
+from plotly.graph_objects import Table
+
 import joblib
 from sqlalchemy import create_engine
 from sklearn.base import BaseEstimator, TransformerMixin
@@ -48,6 +50,11 @@ def tokenize(text):
 
     return clean_tokens
 
+def parse_colnames(x: pd.Series) -> str:
+    x_list = list(x[x>0].index)
+    x_str = ', '.join(x_list).replace('_', ' ')
+    return x_str
+
 # load data
 engine = create_engine('sqlite:///../data/DisasterResponse.db')
 df = pd.read_sql_table('tweets', engine)
@@ -62,13 +69,71 @@ model = joblib.load("../models/classifier.pkl")
 def index():
     
     # extract data needed for visuals
-    # TODO: Below is an example - modify to extract data for your own visuals
     genre_counts = df.groupby('genre').count()['message']
     genre_names = list(genre_counts.index)
     
+    random_idx = np.random.randint(0, df.shape[0], 10)
+    random_tweets = df['message'][random_idx].to_list()
+    categories = df.loc[random_idx, df.columns[4:]]
+    categories = categories.apply(parse_colnames, axis=1)
+    categories = categories.tolist()
+    
+    cats = df.iloc[:,4:].sum()
+    cats = cats.sort_values(ascending=False)
+    values = cats.tolist()
+    names = cats.index.tolist()
+    names = [name.replace('_', ' ') for name in names]
+    
+
     # create visuals
-    # TODO: Below is an example - modify to create your own visuals
     graphs = [
+                {
+            'data': [
+                Table(header=dict(values=['<b>Tweet<b>', '<b>Categories<b>'],
+                                 fill_color='cornflowerblue',
+                                 line_color='darkslategray',
+                                 font=dict(color='white', size=16),
+                                 height=40),
+                         cells=dict(values=[random_tweets, categories],
+                                   align=['left', 'center'],
+                                   line_color='darkslategray',
+                                   fill_color='whitesmoke'))
+            ],
+
+            'layout': {
+                'title': 'Sample of Input Data',
+                'annotations': [{
+                    'text': "Refresh page for more",
+                      'font': {
+                      'size': 13
+                    },
+                    'showarrow': False,
+                    'align': 'center',
+                    'x': 0.5,
+                    'y': 1.15,
+                    'xref': 'paper',
+                    'yref': 'paper',
+                  }]
+            }
+        },       
+        {
+            'data': [
+                Bar(
+                    y=names,
+                    x=values,
+                    orientation="h"
+            )],
+
+            'layout': {
+                'title': 'Category Frequencies',
+                'height': 800,
+                'yaxis': {
+                    'tickangle': 0
+                },
+                'margin': {
+                    'l': 200
+                }
+        }},
         {
             'data': [
                 Bar(
@@ -78,7 +143,7 @@ def index():
             ],
 
             'layout': {
-                'title': 'Distribution of Message Genres',
+                'title': 'Distribution of Tweet Categories',
                 'yaxis': {
                     'title': "Count"
                 },
