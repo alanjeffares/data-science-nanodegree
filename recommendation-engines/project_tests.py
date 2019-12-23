@@ -53,7 +53,7 @@ def sol_5_test(sol_5_dict):
         
     else:
         for k, v in sol_5_dict_1.items():
-            if set(sol_5_dict[k]) != set(sol_5_dict_1[k]):
+            if sol_5_dict[k] != sol_5_dict_1[k]:
                 print("Oops!  Looks like there is a mistake with the {} key in your dictionary.  The answer should be {}.  Try again.".format(k,v))
     
     
