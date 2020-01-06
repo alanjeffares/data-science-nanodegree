@@ -1,18 +1,16 @@
-# Recommendation Engines
+# Sparkify
 
 ## Introduction
-This project analyzes the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles they are predicted to like. The analysis is contained in the `Recommendations_with_IBM.ipynb` notebook and is divided into the following sections:
+This project involves manipulating large and realistic datasets with Spark to engineer relevant features for predicting churn. It uses Spark MLlib to build machine learning models with large datasets, beyond what could be done with non-distributed technologies like scikit-learn. This repository contains an analysis on a subset of this data.
 
-I.  Exploratory Data Analysis <br />
-II.  Rank Based Recommendations <br />
-III.  User-User Based Collaborative Filtering <br />
-IV.  Matrix Factorization
+## Files
+`Sparkify.ipynb` is a jupyter notebook containing documented analysis. 
+`mini_sparkify_event_data.json.zip` is the subset of data in compressed format.
 
 ## Requirements
 ```
-pandas
-numpy
-pickle
+pyspark
 matplotlib
+datetime
 ```
 
